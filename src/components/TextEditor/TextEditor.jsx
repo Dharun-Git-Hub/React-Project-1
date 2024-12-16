@@ -1,3 +1,4 @@
+//npm install @fortawesome/fontawesome-free
 import React, { useEffect } from "react";
 import "./TextEditor.css";
 
